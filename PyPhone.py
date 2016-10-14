@@ -1,6 +1,6 @@
 #     P y P h o n e . p y
 #
-from Tkinter import *
+from tkinter import *
 from phones  import *
 
 def whichSelected () :
